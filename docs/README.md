@@ -1,4 +1,5 @@
 # DirMap Script 📁
+![GitHub last commit](https://img.shields.io/github/last-commit/WiseDodge/DirMap-Script)
 
 **A PowerShell script to generate a visual directory tree of any folder.**
 
